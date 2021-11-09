@@ -1,0 +1,14 @@
+INSERT INTO airlines VALUES("A3", "Aegean Airlines", "Greece");
+INSERT INTO airlines VALUES("AA", "American Airlines", "United States");
+INSERT INTO airlines VALUES("AF", "Air France Airlines", "France");
+INSERT INTO airlines VALUES("AZ", "Alitalia", "Italy");
+INSERT INTO airlines VALUES("BA", "British Airways", "United Kingdom");
+INSERT INTO airlines VALUES("ET", "Ethiopian Airlines", "Ethiopia");
+INSERT INTO airlines VALUES("FB", "Bulgaria Air", "Bulgaria");
+INSERT INTO airlines VALUES("LH", "Lufthansa", "Germany");
+INSERT INTO airlines VALUES("OA", "Olympic Air", "Greece");
+INSERT INTO airlines VALUES("SR", "Swissair", "Switzerland");
+INSERT INTO airlines VALUES("SU", "Aeroflot", "Russian Federation");
+INSERT INTO airlines VALUES("U2", "EasyJet", "United Kingdom");
+INSERT INTO airlines VALUES("TK", "Turkish Airlines", "Turkey");
+INSERT INTO airlines VALUES("DL", "Delta Air Lines", "France");

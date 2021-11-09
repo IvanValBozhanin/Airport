@@ -1,0 +1,17 @@
+INSERT INTO bookings VALUES("YA298P", "2013-12-18", "2013-12-25", 300.00, 1, "FB", "TK1038", 2, "Travel Two");
+INSERT INTO bookings VALUES("YB298P", "2014-01-18", "2014-02-18", 400.00, 0, "FB", "TK1037", 3, "Travel Tour");
+INSERT INTO bookings VALUES("YC298P", "2014-11-11", "2014-11-25", 350.00, 0, "FB", "TK1028", 4, "Travel One");
+INSERT INTO bookings VALUES("YD298P", "2013-11-03", "2013-12-20", 250.00, 1, "FB", "TK1028", 1, "Travel Tour");
+INSERT INTO bookings VALUES("YE298P", "2013-11-03", "2013-12-21", 150.00, 0, "FB", "TK1027", 2, "Aerofly");
+INSERT INTO bookings VALUES("YJ298P", "2013-11-05", "2013-12-05", 500.00, 1, "FB", "SU2061", 3, "Aerofly");
+INSERT INTO bookings VALUES("YK298P", "2014-07-07", "2014-08-08", 350.00, 0, "FB", "SU2060", 1, "Aerofly");
+INSERT INTO bookings VALUES("YL298P", "2014-04-28", "2014-05-25", 360.00, 0, "FB", "FB851", 7, "Fly Tour");
+INSERT INTO bookings VALUES("YM298P", "2014-06-09", "2014-07-10", 350.00, 1, "FB", "OA308", 2, "Aerotravel");
+INSERT INTO bookings VALUES("YN198P", "2014-10-18", "2014-11-25", 450.00, 0, "FB", "OA307", 3, "Aerotravel");
+INSERT INTO bookings VALUES("YN268P", "2014-06-09", "2014-07-10", 390.00, 1, "FB", "FB457", 2, "Fly Tour");
+INSERT INTO bookings VALUES("YN298P", "2013-11-18", "2013-12-25", 300.00, 0, "FB", "FB1363", 1, "Travel One");
+INSERT INTO bookings VALUES("YN498P", "2014-01-05", "2014-02-25", 300.00, 1, "FB", "LH1703", 1, "Aerofly");
+INSERT INTO bookings VALUES("YN598P", "2014-03-03", "2014-06-25", 300.00, 0, "FB", "FB1363", 5, "Aerotravel");
+INSERT INTO bookings VALUES("YN698P", "2014-06-16", "2014-07-25", 330.00, 1, "FB", "FB852", 6, "Fly Tour");
+INSERT INTO bookings VALUES("YS298P", "2014-10-04", "2014-11-15", 400.00, 0, "FB", "SU2061", 4, "Aerofly");
+INSERT INTO bookings VALUES("YZ298P", "2014-03-15", "2014-06-25", 380.00, 1, "FB", "FB458", 1, "Fly Tour");
